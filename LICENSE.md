@@ -33,3 +33,7 @@ This license shall be governed by and construed in accordance with the laws of t
 ### 7. Contact Information
 
 If you have any questions about this license, please contact Tom, the founder of AVsync.LIVE at tom@avsync.live.
+
+## Copyright Notice
+
+© 2023 AVsync.LIVE LLC
