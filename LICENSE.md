@@ -16,11 +16,11 @@ c) You may not remove or obscure any licensing, copyright, or other notices.
 
 ### 3. Open Source Projects
 
-For open source projects that embed and redistribute AVsync.LIVE, AVsync.LIVE grants the right to redistribute the software free of charge under the terms of this license.
+For open source projects that embed and redistribute AVsync.LIVE software, AVsync.LIVE grants the right to redistribute the software free of charge under the terms of this license.
 
 ### 4. Commercial Applications
 
-For commercial applications that embed and redistribute AVsync.LIVE, a direct agreement with AVsync.LIVE is required for redistribution. Contact AVsync.LIVE at tom@avsync.live for more information.
+For commercial applications that embed and redistribute AVsync.LIVE software, a direct agreement with AVsync.LIVE is required for redistribution. Contact contact Tom, the founder of AVsync.LIVE, for more information.
 
 ### 5. Disclaimer of Warranty
 
@@ -32,7 +32,7 @@ This license shall be governed by and construed in accordance with the laws of t
 
 ### 7. Contact Information
 
-If you have any questions about this license, please contact Tom, the founder of AVsync.LIVE at tom@avsync.live.
+If you have any questions about this license, please contact Tom, the founder of AVsync.LIVE, at tom@avsync.live.
 
 ## Copyright Notice
 
