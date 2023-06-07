@@ -28,7 +28,7 @@ THE AVSYNC.LIVE SOFTWARE IS PROVIDED “AS IS” AND ANY EXPRESSED OR IMPLIED WA
 
 ### 6. Governing Law
 
-This license shall be governed by and construed in accordance with the laws of the United States of America and the State of [insert state], without regard to its conflict of law provisions.
+This license shall be governed by and construed in accordance with the laws of the United States of America and the State of Illinois, without regard to its conflict of law provisions.
 
 ### 7. Contact Information
 
