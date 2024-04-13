@@ -36,4 +36,4 @@ If you have any questions about this license, please contact Tom, the founder of
 
 ## Copyright Notice
 
-© 2023 AVsync.LIVE LLC
+© 2024 AVsync.LIVE LLC
